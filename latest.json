@@ -1,0 +1,11 @@
+{
+  "version": "0.2.11",
+  "notes": "حقوق نشر 7CODE، ثلاثة أطقم ألوان، مستكشف بأسلوب VS Code، محرر ومتصفح قابلان للتوسيع، تحسينات MCP ونظام تحديثات موقّع.",
+  "pub_date": "2026-10-13T04:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/gamesmrbest/7CODE-Releases/releases/download/v0.2.11/7CODE-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb05jN1NaY1JxaFI4LzF1UVcvb0wxZ1NvKzFZMW81VmsvbU43azVrLzFONkY3NWQxT3RuRlhMV1JTYkw2eXluZVFwMmhaVXBKUjRzR0ozMXVTSEhBcTREdXpQNjFEWkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY1MjI3CWZpbGU6N0NPREVfMC4yLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTEKbGJyd1hlWXhsU0o2QTRMaTdSV2pOWklhZ09FMmxpR0d0MjRwbWFVd2Fvb2t1dkVWaldNRnUxNnQ1anBmVEF1dHdFdU5paGhyWS9oeDJQcVVCcXo4Q0E9PQo="
+    }
+  }
+}
